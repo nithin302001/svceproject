@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>this website is built by MR.NITHIN</h1>
+        <h1>welcome to SVCE EDUCATIONAL INSTITUTIONS</h1>
         <nav>
             <ul>
                 <li><a href="index.jsp">Home</a></li>
